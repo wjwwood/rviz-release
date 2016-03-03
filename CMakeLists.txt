@@ -8,8 +8,6 @@ if (POLICY CMP0054)
   cmake_policy(SET CMP0054 NEW)
 endif()
 
-message("Hello!")
-
 find_package(Boost REQUIRED
   COMPONENTS
   filesystem
