@@ -1,4 +1,3 @@
-!!python/unicode 'release_repo_url': https://github.com/wjwwood/rviz-release
 tracks:
   groovy:
     actions:
